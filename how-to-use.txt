@@ -1,0 +1,11 @@
+Download the Source Code
+
+Database Connection:
+	1 Create a Database
+	2 Create a User with Password
+	3 Grant all Permissions
+
+Run MainProgram.py 
+
+Note:
+	1 DB conection is must
